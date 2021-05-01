@@ -5,4 +5,4 @@ I do projects that are for school and for fun too. I encourage everyone to build
 I'm still learning and always will be, but I have some experience doing the following:
 - Data Science via `python`
 - Android App Dev via `java`/`kotlin`
-- Machine Learning via `python
+- Machine Learning via `python`
