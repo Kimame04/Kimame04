@@ -9,5 +9,5 @@ I'm still learning and always will be, but I have some experience doing the foll
 
 Here are the things that I want to pick up:
 - Deep Learning using `pytorch`
-- Database with `SQL`
-- iOS app dev with `swift`
+- Database using `SQL`
+- iOS app dev using `swift`
