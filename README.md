@@ -1,8 +1,13 @@
 ### Welcome to Kimame04's GitHub profile!
 
-I do projects that are for school and for fun too. I encourage everyone to build on what I have already made, and create something better! 
+I develop projects that are for school and for fun too. I encourage everyone to build on what I have already made, and create something better! 
 
 I'm still learning and always will be, but I have some experience doing the following:
-- Data Science using `python`
-- Android App Dev using `java` or `kotlin`
-- Machine Learning using `python`
+- Data science using `python`
+- Android app dev using `java` or `kotlin`
+- Machine learning using `python`
+
+Here are the things that I want to pick up:
+- Deep Learning using `pytorch`
+- Database with `SQL`
+- iOS app dev with `swift`
