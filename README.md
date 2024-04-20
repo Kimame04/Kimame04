@@ -1,6 +1,6 @@
 ### Welcome to Kimame04's GitHub profile!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimame04)](https://github.com/Kimame04/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimame04)](https://github.com/anuraghazra/github-readme-stats)
 
 Rolling nat ones. 
 
