@@ -2,20 +2,22 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimame04)](https://github.com/anuraghazra/github-readme-stats)
 
-Rolling nat ones. 
+Welcome! You'll find archives of my school coding projects and personal pursuits here.
 
 My interests:
-- Anime
-- Aviation
-- Formula One
-- Tabletop RPGS
+- Robotics
+- Machine Intelligence
+- Vocal synthesizers (Kasane Teto, Hatsune Miku)
+- Motorsports (Formula One, WEC)
+- Tabletop RPGS (Pathfinder)
 
 My skillsets:
-- Data science
-- Android dev
 - Machine learning
-- Database
+- Database design
+- Android app development
+- Data science and analytics
 
 Here are the things that I want to pick up:
-- Web dev
+- Web development
 - Computer vision
+- Deep learning
