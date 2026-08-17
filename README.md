@@ -1,6 +1,6 @@
 ### Welcome to Kimame04's GitHub profile!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimame04)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kimame04)](https://github.com/anuraghazra/github-readme-stats)
 
 Welcome! You'll find archives of my school coding projects and personal pursuits here.
 
@@ -12,12 +12,11 @@ My interests:
 - Tabletop RPGS (Pathfinder)
 
 My skillsets:
-- Machine learning
-- Database design
-- Android app development
+- Robotics software development
+- Traditional app development
 - Data science and analytics
 
 Here are the things that I want to pick up:
-- Web development
 - Computer vision
 - Deep learning
+- Web development
