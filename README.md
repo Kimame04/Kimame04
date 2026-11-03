@@ -31,10 +31,10 @@ A curated selection of software and data projects. For comprehensive case studie
 
 | Project | Focus & Impact | Core Tech | Links |
 | :--- | :--- | :--- | :--- |
-| **Telegram Journal Analytics** | Privacy-focused personal data engine with automated Parquet caching, circadian habit modeling, and streamgraphs. | `Python` `Pandas` `Parquet` `Plotly` | [Article](https://kimame04.github.io/projects/telegram-journal-analytics/) |
-| **Satellite Land Use Classification** | Deep transfer learning pipeline applying convolutional neural networks to classify multi-spectral satellite imagery. | `PyTorch` `Computer Vision` `Python` | [Code](https://github.com/Kimame04/tl-land-use-classification) |
-| **Air Quality Predictive Modeling** | Supervised machine learning workflows for environmental sensor analysis and time-series forecasting. | `Scikit-Learn` `Pandas` `Jupyter` | [Code](https://github.com/Kimame04/supervised-airquality-analysis) |
-| **Task & Project Assistant** | Desktop task manager built with strict adherence to clean OOP, defensive programming, and automated CI testing. | `Java` `JavaFX` `JUnit 5` `Gradle` | [Overview](https://kimame04.github.io/projects/nus-se-assistant/) |
+| **Telegram Journal Analytics** | Personal analytics dashboard and bot with Parquet caching, habit tracking, and live Discord relay. | `Python` `Pandas` `Parquet` `Plotly` | [Live Demo](https://kimame04.github.io/telegram-journal-analytics/) &nbsp;\|&nbsp; [Article](https://kimame04.github.io/projects/telegram-journal-analytics/) |
+| **Satellite Land Use Classification** | Transfer learning pipeline using CNNs to classify land use from multi-spectral satellite imagery. | `PyTorch` `Python` | [Code](https://github.com/Kimame04/tl-land-use-classification) |
+| **Air Quality Predictive Modeling** | Regression models forecasting air quality indices from weather and pollutant sensor data. | `Scikit-Learn` `Pandas` | [Code](https://github.com/Kimame04/supervised-airquality-analysis) |
+| **Task & Project Assistant** | Desktop task manager combining CLI and GUI, built to practice OOP design and defensive programming. | `Java` `JavaFX` `Gradle` | [Overview](https://kimame04.github.io/projects/nus-se-assistant/) |
 
 ---
 

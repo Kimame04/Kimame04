@@ -1,0 +1,6 @@
+# Local documents & resume assets
+*.pdf
+
+# OS artifacts
+.DS_Store
+Thumbs.db
