@@ -1,18 +1,9 @@
 # Hi, I'm Kieran Mendoza 👋
 
 **Computer Science (Honours) Undergraduate @ National University of Singapore (NUS)**  
-Working across autonomous systems software to achieve machine intelligence.
+Working across robotics software to achieve machine intelligence.
 
-[🌐 Portfolio Website](https://kimame04.github.io) &nbsp;|&nbsp; [📁 Projects Catalog](https://kimame04.github.io/projects/) &nbsp;|&nbsp; [📝 Technical Articles](https://kimame04.github.io/articles/) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/kieran-majel-mendoza-b15913206) &nbsp;|&nbsp; [📫 Get in Touch](mailto:mendozakyan@gmail.com)
-
----
-
-### 🌊 Engineering & Autonomous Systems
-
-- **[NUS Bumblebee Autonomous Systems](https://bumblebee.sg/)** — *Software Team Member (May 2026 – Present)*  
-  Developing simulation and perception pipelines for Autonomous Underwater (AUV) and Surface (ASV) vessels. Part of the team that **won 1st Place at RoboSub 2026** (out of 58 international universities) and **1st Place at RobotX 2026**.
-- **[Curium](https://curium.sg/)** — *Software Developer & Engineering Intern (Feb – Jul 2025, Feb – Mar 2023, Jun – Jul 2022)*  
-  Built lidar annotation tools, synthetic crowd tracking datasets, and low-latency ROS/eCAL sensor recording modules.
+[🌐 Portfolio Website](https://kimame04.github.io) &nbsp;|&nbsp; [💼 Experience](https://kimame04.github.io/experience/) &nbsp;|&nbsp; [📁 Projects Catalog](https://kimame04.github.io/projects/) &nbsp;|&nbsp; [📝 Technical Articles](https://kimame04.github.io/articles/) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/kieran-majel-mendoza-b15913206) &nbsp;|&nbsp; [📫 Get in Touch](mailto:mendozakyan@gmail.com)
 
 ---
 
