@@ -4,3 +4,7 @@
 # OS artifacts
 .DS_Store
 Thumbs.db
+
+# Agent instructions and internal SOP (keep untracked)
+agents.md
+AGENTS.md

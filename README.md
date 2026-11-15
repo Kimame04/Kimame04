@@ -10,7 +10,7 @@ Working across autonomous systems software to achieve machine intelligence.
 ### 🌊 Engineering & Autonomous Systems
 
 - **[NUS Bumblebee Autonomous Systems](https://bumblebee.sg/)** — *Software Team Member (May 2026 – Present)*  
-  Developing simulation and perception pipelines for Autonomous Underwater (AUV) and Surface (ASV) vessels. Part of the team that **won 1st Place at RoboSub 2026** (out of 58 international universities).
+  Developing simulation and perception pipelines for Autonomous Underwater (AUV) and Surface (ASV) vessels. Part of the team that **won 1st Place at RoboSub 2026** (out of 58 international universities) and **1st Place at RobotX 2026**.
 - **[Curium](https://curium.sg/)** — *Software Developer & Engineering Intern (Feb – Jul 2025, Feb – Mar 2023, Jun – Jul 2022)*  
   Built lidar annotation tools, synthetic crowd tracking datasets, and low-latency ROS/eCAL sensor recording modules.
 
@@ -31,7 +31,7 @@ A curated selection of software and data projects. For comprehensive case studie
 
 | Project | Focus & Impact | Core Tech | Links |
 | :--- | :--- | :--- | :--- |
-| **JijiBot (Telegram Journal Analytics)** | Personal reflection familiar and live Discord relay with Parquet caching, habit profiling, and multi-year flashbacks. | `Python` `Pandas` `Parquet` `Plotly` | [Live Demo](https://kimame04.github.io/telegram-journal-analytics/) &nbsp;\|&nbsp; [Article](https://kimame04.github.io/projects/telegram-journal-analytics/) |
+| **KayaBot** | Personal reflection familiar for Telegram channels with live Discord relay, Parquet caching, and multi-year flashbacks. | `Python` `Pandas` `Parquet` `Plotly` | [Live Demo](https://kimame04.github.io/kayabot/) &nbsp;\|&nbsp; [Overview](https://kimame04.github.io/projects/kayabot/) |
 | **KeyBossWarriorsPro (tp)** | Desktop contact manager for artisan keyboard shops with role badges, multi-field collision checks, and automated CI. | `Java` `JavaFX` `Gradle` | [Code](https://github.com/AY2627S1-CS2103T-F11-1/tp) &nbsp;\|&nbsp; [Overview](https://kimame04.github.io/projects/keyboss-warriors-pro/) |
 | **Task & Project Assistant (ip)** | Desktop task manager combining CLI and GUI, built to practice OOP design and defensive programming. | `Java` `JavaFX` `Gradle` | [Code](https://github.com/Kimame04/ip) &nbsp;\|&nbsp; [Overview](https://kimame04.github.io/projects/nus-se-assistant/) |
 | **Satellite Land Use Classification** | Transfer learning pipeline using CNNs to classify land use from multi-spectral satellite imagery. | `PyTorch` `Python` | [Code](https://github.com/Kimame04/tl-land-use-classification) |
