@@ -12,7 +12,7 @@ Working across robotics software to achieve machine intelligence.
 - **Autonomous & Robotic Systems:** Autonomous vehicle software architecture, perception & simulation pipelines, sensor calibration, and cross-middleware telemetry (`ROS 2` · `eCAL` · `C++` · `Python` · `Linux / Bash`)
 - **Data Systems & Analytics:** High-throughput telemetry processing, analytics pipelines, column-oriented storage, and interactive visualization (`Python` · `Pandas` · `NumPy` · `SQL` · `Parquet` · `Plotly`)
 - **Machine Intelligence & Vision:** Transfer learning, convolutional image classification, lidar annotation & synthetic dataset pipelines, predictive regression (`PyTorch` · `Scikit-Learn` · `Computer Vision`)
-- **Software Systems & Architecture:** Modular OOP design, clean architecture, defensive programming, automated testing (TDD), and CI/CD (`Java` · `JUnit 5` · `Gradle` · `Git / GitHub Actions`)
+- **Software Systems & Architecture:** Modular OOP design, clean architecture, defensive programming, automated testing (TDD), and CI/CD (`Java` · `Go` · `TypeScript` · `JUnit 5` · `Gradle` · `Git / GitHub Actions`)
 
 ---
 
@@ -22,6 +22,7 @@ A curated selection of software and data projects. For comprehensive case studie
 
 | Project | Focus & Impact | Core Tech | Links |
 | :--- | :--- | :--- | :--- |
+| **BountyBoard** | Self-study full-stack RPG forum exploring Go, SQLite, and React, with Stack Exchange party XP resolution and embedded single-binary packaging. | `Go` `React` `TypeScript` `SQLite` | [Code](https://github.com/Kimame04/bounty-board) &nbsp;\|&nbsp; [Overview](https://kimame04.github.io/projects/bounty-board/) |
 | **KayaBot** | Personal reflection familiar for Telegram channels with live Discord relay, Parquet caching, and multi-year flashbacks. | `Python` `Pandas` `Parquet` `Plotly` | [Live Demo](https://kimame04.github.io/kayabot/) &nbsp;\|&nbsp; [Overview](https://kimame04.github.io/projects/kayabot/) |
 | **KeyBossWarriorsPro (tp)** | Desktop contact manager for artisan keyboard shops with role badges, multi-field collision checks, and automated CI. | `Java` `JavaFX` `Gradle` | [Code](https://github.com/AY2627S1-CS2103T-F11-1/tp) &nbsp;\|&nbsp; [Overview](https://kimame04.github.io/projects/keyboss-warriors-pro/) |
 | **Task & Project Assistant (ip)** | Desktop task manager combining CLI and GUI, built to practice OOP design and defensive programming. | `Java` `JavaFX` `Gradle` | [Code](https://github.com/Kimame04/ip) &nbsp;\|&nbsp; [Overview](https://kimame04.github.io/projects/nus-se-assistant/) |
